@@ -817,3 +817,11 @@ Now, this might be an actual solution.
 
 There must be a topic on how to close vim, right?
 You just need to read long enough
+
+## Internet
+
+As like the wikipedia way, you might think so far, "but it might not be in a wiki" - then i have the resolution for ya.
+
+Just open your fav. browser and read the WHOLE INTERNET. sowewhere must be an article about closing vim.
+
+But be aware, this aprouch might take you a few million years...
