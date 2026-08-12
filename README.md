@@ -794,3 +794,26 @@ func main() {
 
 3. Run with `go run .` or make executable using `go build -o VimKill`
 
+> [!NOTE]
+> here begins seesee010 changes
+
+## The fast way
+
+write a email to some famous tech guy, vim knowhow for that guy is options.
+
+## Bullets
+
+There is a fast solution on this, on how to exit vim. Ever thought "I dont care anymore, if i aint quit vim my pc too"?
+
+Here's a quick help gor you.
+Just take the first best gun you can find, load it and shoot on the pc.
+
+The vim programm might not close. But the physics will (if you shoot long enough)
+
+## Wiki
+
+Ever thought of maybe reading the entire wiki.
+Now, this might be an actual solution.
+
+There must be a topic on how to close vim, right?
+You just need to read long enough
