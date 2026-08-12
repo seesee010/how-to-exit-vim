@@ -799,13 +799,13 @@ func main() {
 
 ## The fast way
 
-write a email to some famous tech guy, vim knowhow for that guy is options.
+write a email to some famous tech guy, vim knowhow for that guy is optional
 
 ## Bullets
 
-There is a fast solution on this, on how to exit vim. Ever thought "I dont care anymore, if i aint quit vim my pc too"?
+There is a fast solution on this, on how to exit vim. Ever thought "I dont care anymore, if i will quit vim or my pc too"?
 
-Here's a quick help gor you.
+Here's a quick help for you.
 Just take the first best gun you can find, load it and shoot on the pc.
 
 The vim programm might not close. But the physics will (if you shoot long enough)
