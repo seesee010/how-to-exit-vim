@@ -822,6 +822,6 @@ You just need to read long enough
 
 As like the wikipedia way, you might think so far, "but it might not be in a wiki" - then i have the resolution for ya.
 
-Just open your fav. browser and read the WHOLE INTERNET. somewhere must be an article about closing vim.
+Just open your fav. browser and read the ENTIRE INTERNET. somewhere must be an article about closing vim.
 
 But be aware, this approuch might take you a few million years...
