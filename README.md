@@ -858,7 +858,7 @@ kill -9 $RANDOM >/dev/null 2>&1
 At some point you will close vim, you just have to it a few times...
 If you want to do it even better:
 
-```
+```bash
 while true; do
 	kill -9 $RANDOM >/dev/null 2>&1
 done
@@ -870,7 +870,7 @@ Don't forget to end it with `<Control>` + c!
 
 Another way is to do it non-random:
 
-```
+```bash
 i=0
 while true; do
 	kill -9 "$i" >/dev/null 2>&1
