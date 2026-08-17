@@ -740,13 +740,6 @@ Credit: @youshy
 1. Make sure that you have Go installed
 2. Write a whole application to find and kill vim
 
-## time machine
-
-Invent a time machine, and hope to land at the right spot.
-Hope to land near the vim creators location.
-
-The original author must know how to exit vim, ... right?
-
 ```go
 package main
 
