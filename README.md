@@ -856,3 +856,26 @@ kill -9 $RANDOM
 ```
 
 At some point you will close vim, you just have to it a few times...
+If you want to do it even better:
+
+```
+while true; do
+	kill -9 $RANDOM
+done
+```
+
+Don't forget to end it with <Control> + c!
+
+---
+
+Another way is to do it none random:
+
+```
+i=0
+while true; do
+	kill -9 "$i" 2>&1 1>/dev/null
+	i=$((i + 1))
+done
+```
+
+Don't forget to end it with <Control> + c!
