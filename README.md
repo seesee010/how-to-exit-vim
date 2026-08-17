@@ -832,3 +832,10 @@ Do you know the infinite monkey theorem?
 
 Type some random words into vim, at some point it must close itself, right?
 You just need to press long enough new combinations.
+
+## No programm inside the program way
+
+Delete the bin while you are in vim.
+There is no vim left. So if you need it again (YOU DO!), then you have to reinstal it...
+
+Maybe at some point you will create your own alias to delete vim and then install it again.
