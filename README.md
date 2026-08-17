@@ -825,3 +825,10 @@ As like the wikipedia way, you might think so far, "but it might not be in a wik
 Just open your fav. browser and read the ENTIRE INTERNET. somewhere must be an article about closing vim.
 
 But be aware, this approuch might take you a few million years...
+
+## infinite monkey theorem
+
+Do you know the infinite monkey theorem?
+
+Type some random words into vim, at some point it must close itself, right?
+You just need to press long enough new combinations.
