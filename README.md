@@ -840,9 +840,20 @@ There is no vim left. So if you need it again (YOU DO!), then you have to reinst
 
 Maybe at some point you will create your own alias to delete vim and then install it again.
 
-# time machine 
+## time machine 
 
 Invent a time machine, and hope to land at the right spot.
 Hope to land near the vim creators location. 
 
 The original author must know how to exit vim, ... right?
+
+## The TRUE Russian Roulette way
+
+write into bash:
+
+```bash
+kill -g {random-number}
+```
+
+Instead of litterly writting `{random-number}`, type a random number instead.
+At some point you will close vim, you just have to it a few times...
