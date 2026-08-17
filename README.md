@@ -852,7 +852,7 @@ The original author must know how to exit vim, ... right?
 write into bash:
 
 ```bash
-kill -9 $RANDOM
+kill -9 $RANDOM >/dev/null 2>&1
 ```
 
 At some point you will close vim, you just have to it a few times...
@@ -860,7 +860,7 @@ If you want to do it even better:
 
 ```
 while true; do
-	kill -9 $RANDOM
+	kill -9 $RANDOM >/dev/null 2>&1
 done
 ```
 
