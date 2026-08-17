@@ -852,7 +852,7 @@ The original author must know how to exit vim, ... right?
 write into bash:
 
 ```bash
-kill -g {random-number}
+kill -9 {random-number}
 ```
 
 Instead of litterly writting `{random-number}`, type a random number instead.
