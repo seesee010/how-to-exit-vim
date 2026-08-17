@@ -864,7 +864,7 @@ while true; do
 done
 ```
 
-Don't forget to end it with <Control> + c!
+Don't forget to end it with `<Control>` + c!
 
 ---
 
@@ -878,4 +878,4 @@ while true; do
 done
 ```
 
-Don't forget to end it with <Control> + c!
+Don't forget to end it with `<Control>` + c!
