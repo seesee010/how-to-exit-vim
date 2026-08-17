@@ -868,7 +868,7 @@ Don't forget to end it with <Control> + c!
 
 ---
 
-Another way is to do it none random:
+Another way is to do it non-random:
 
 ```
 i=0
