@@ -873,7 +873,7 @@ Another way is to do it non-random:
 ```
 i=0
 while true; do
-	kill -9 "$i" 2>&1 1>/dev/null
+	kill -9 "$i" >/dev/null 2>&1
 	i=$((i + 1))
 done
 ```
